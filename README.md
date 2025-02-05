@@ -1,3 +1,5 @@
+## Short Summary of my findings
+
 # Market Analysis for Profitable Products & Loyal Customers
 
 ## 1. Overview
