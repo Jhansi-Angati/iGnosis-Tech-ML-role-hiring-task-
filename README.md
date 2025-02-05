@@ -1,6 +1,6 @@
 # Short Summary of my findings
 
-### Market Analysis for Profitable Products & Loyal Customers
+## Market Analysis for Profitable Products & Loyal Customers
 
 ## 1. Overview
 This analysis identifies the **top 3 most profitable products** and the **most loyal customer segments** using transaction data.
