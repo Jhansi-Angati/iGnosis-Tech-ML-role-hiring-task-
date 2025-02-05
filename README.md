@@ -15,6 +15,10 @@ This analysis identifies the **top 3 most profitable products** and the **most l
 | 2 | Smiths Crinkle Chips Original Big Bag 380g | 36,367.60 |
 | 3 | Smiths Crinkle Chips Salt & Vinegar 330g | 34,804.20 |
 
+**Key Insights:**
+- Large chip bags dominate the top sales, suggesting a preference for bulk purchases.
+- Popular brands like Doritos and Smiths are strong market leaders.
+
 ---
 
 ## 3. Most Loyal Customer Segments
@@ -25,6 +29,21 @@ This analysis identifies the **top 3 most profitable products** and the **most l
 | 2 | Young Singles/Couples | Mainstream | 157,621.60 |
 | 3 | Retirees | Mainstream | 155,677.05 |
 
+Loyal customers were identified based on purchase frequency and total spending. Most of them belong to these groups:
+
+| Life Stage | Customer Type | Number of Loyal Customers |
+|------------|--------------|----------------------------|
+| Older Families | Budget | 2 |
+| Older Families | Mainstream | 2 |
+| Young Families | Budget | 2 |
+| Young Families | Mainstream | 1 |
+| Young Families | Premium | 2 |
+| Young Singles/Couples | Mainstream | 1 |
+
+**Key Insights:**
+- Families (young and older) make the most repeat purchases.
+- Budget-conscious and mainstream buyers dominate loyalty.
+- Premium buyers are fewer but still exhibit high spending habits.
 ---
 
 ## 4. Hypothesis on Customer Loyalty
@@ -35,7 +54,7 @@ This analysis identifies the **top 3 most profitable products** and the **most l
 
 ---
 
-## 6. Marketing Recommendations
+## 5. Marketing Recommendations
 
 📌 **Target Older Families (Budget Segment)**
    - Offer **family-size snack packs** at discounted rates.
@@ -53,6 +72,6 @@ These strategies will help optimize marketing efforts and maximize profitability
 
 ---
 
-## 5. Conclusion
+## 6. Conclusion
 
 Understanding these segments can help the marketing team optimize promotions and target the most valuable customers effectively
