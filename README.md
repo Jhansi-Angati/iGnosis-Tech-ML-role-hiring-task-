@@ -37,15 +37,15 @@ This analysis identifies the **top 3 most profitable products** and the **most l
 
 ## 6. Marketing Recommendations
 
-1. **Target Older Families (Budget Segment)**
+📌 **Target Older Families (Budget Segment)**
    - Offer **family-size snack packs** at discounted rates.
    - Provide loyalty rewards to encourage repeat purchases.
 
-2. **Engage Young Singles/Couples (Mainstream Segment)**
+📌 **Engage Young Singles/Couples (Mainstream Segment)**
    - Run **social media promotions** for trendy snack flavors.
    - Offer **bundle deals** to encourage larger purchases.
 
-3. **Leverage Bestselling Products for Promotions**
+📌 **Leverage Bestselling Products for Promotions**
    - Feature **Dorito Corn Chips Supreme 380g** in advertisements.
    - Use the **top 3 products** in combo deals or limited-time offers.
 
